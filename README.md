@@ -2,7 +2,7 @@
 
 # 😼 sky_lock's profile
 
-The developer of [PocketLife](https://monocraft.net/servers/xK1rqXiWsARGtsWBGMzP/vote "PocketLife").
-
+📚 I’m currently learning Rust.
+🎲 I'm now working on [PocketLife](https://monocraft.net/servers/xK1rqXiWsARGtsWBGMzP/vote "PocketLife").
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylinelock&layout=compact&card_width=450&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
